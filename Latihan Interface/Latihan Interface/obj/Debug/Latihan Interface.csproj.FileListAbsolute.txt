@@ -1,0 +1,10 @@
+D:\Hhh\Latihan Interface\Latihan Interface\obj\Debug\Latihan Interface.csprojAssemblyReference.cache
+D:\Hhh\Latihan Interface\Latihan Interface\obj\Debug\Latihan Interface.csproj.CoreCompileInputs.cache
+D:\Hhh\Latihan Interface\Latihan Interface\bin\Debug\Latihan Interface.exe.config
+D:\Hhh\Latihan Interface\Latihan Interface\bin\Debug\Latihan Interface.exe
+D:\Hhh\Latihan Interface\Latihan Interface\bin\Debug\Latihan Interface.pdb
+D:\Hhh\Latihan Interface\Latihan Interface\bin\Debug\Newtonsoft.Json.dll
+D:\Hhh\Latihan Interface\Latihan Interface\bin\Debug\Newtonsoft.Json.xml
+D:\Hhh\Latihan Interface\Latihan Interface\obj\Debug\Latihan Interface.csproj.CopyComplete
+D:\Hhh\Latihan Interface\Latihan Interface\obj\Debug\Latihan Interface.exe
+D:\Hhh\Latihan Interface\Latihan Interface\obj\Debug\Latihan Interface.pdb
